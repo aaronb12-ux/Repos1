@@ -20,6 +20,6 @@ clean:
 	rm -f  *.o*.out
 
 run: connectn.out
-	./connectn.out 9 9 3
+	./connectn.out 5 5 3
 
 
